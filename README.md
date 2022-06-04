@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saketthenuan
 - 👀 I’m interested in Develeopment and Open source 
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on Android development
+- 🌱 I’m currently learning MERN 
+- 💞️ I’m looking to collaborate on Android and Web development
 - 📫 How to reach me saketthenuan@gmail.com
     https://www.linkedin.com/in/saket10
 
